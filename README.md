@@ -1,5 +1,5 @@
 # Mini-Python-Projects
-Password Manager
+Password Manager\n
 Number Guessing Game
 Quiz Game
 Rock Paper Scissors
